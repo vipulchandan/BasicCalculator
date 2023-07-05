@@ -23,7 +23,7 @@ These instructions will get you a copy of the project up and running on your loc
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/calculator-app.git
+   git clone https://github.com/vipulchandan/BasicCalculator.git
    ```
 
 2. Navigate to the project directory:
@@ -69,7 +69,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Customization
 
-You can customize the styles and appearance of the calculator by modifying the CSS file `Calculator.css`. Feel free to update the styles to match your desired look and feel.
+You can customize the styles and appearance of the calculator by modifying the CSS file `app.css`. Feel free to update the styles to match your desired look and feel.
 
 ## Technologies Used
 
