@@ -91,5 +91,4 @@ This project is licensed under the [MIT License](LICENSE.md).
 
 For any questions or suggestions, please feel free to reach out to me:
 
-- Email: your-email@example.com
-- GitHub: [Your GitHub Profile](https://github.com/vipulchandan)
+- GitHub: [My GitHub Profile](https://github.com/vipulchandan)
